@@ -11,3 +11,4 @@
 - https://labs.hackthebox.com/achievement/machine/2721079/403
 - https://labs.hackthebox.com/achievement/machine/2721079/404
 - https://labs.hackthebox.com/achievement/machine/2721079/461
+- https://labs.hackthebox.com/achievement/machine/2721079/489
