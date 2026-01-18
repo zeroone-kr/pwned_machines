@@ -12,3 +12,6 @@
 - https://labs.hackthebox.com/achievement/machine/2721079/404
 - https://labs.hackthebox.com/achievement/machine/2721079/461
 - https://labs.hackthebox.com/achievement/machine/2721079/489
+
+## Tier 2
+- https://labs.hackthebox.com/achievement/machine/2721079/287
