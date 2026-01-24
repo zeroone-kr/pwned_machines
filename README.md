@@ -15,3 +15,4 @@
 
 ## Tier 2
 - https://labs.hackthebox.com/achievement/machine/2721079/287
+- https://labs.hackthebox.com/achievement/machine/2721079/288
