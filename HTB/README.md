@@ -17,5 +17,6 @@
 - https://labs.hackthebox.com/achievement/machine/2721079/287
 - https://labs.hackthebox.com/achievement/machine/2721079/288
 - https://labs.hackthebox.com/achievement/machine/2721079/289
+- https://labs.hackthebox.com/achievement/machine/2721079/441
   - sqli로 어떻게 내부 os command exeuction을 가능했던거지 (sqlmap)
   - sudo -l의 출력 결과 이해   
