@@ -3,6 +3,7 @@ useful sites
 - https://github.com/fortra/impacket
 - https://github.com/BlackArch/webshells.git
 - https://github.com/peass-ng/PEASS-ng/tree/master
+- https://github.com/sqlmapproject/sqlmap
 - [Guide to windows malware development](https://medium.com/@s12deff/windows-malware-development-roadmap-9a66ab8b82dd)
 
 
